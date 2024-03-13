@@ -19,3 +19,5 @@ In FP we only use Unary function: only receive one input
 
 Currying: a method to make functions that receives multiple parameters unary
 
+Cardinality of a type: is the number of elements the type has (possible values)
+
